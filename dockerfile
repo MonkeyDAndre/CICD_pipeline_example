@@ -1,4 +1,4 @@
-FROM python3.10-slim
+FROM python3.10:-slim
 
 COPY ./CD /app
 
