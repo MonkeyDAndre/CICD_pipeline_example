@@ -6,4 +6,4 @@ WORKDIR /app
 
 RUN ls
 
-CMD ['pytnon', "app.py"]
+CMD ['python', "app.py"]
